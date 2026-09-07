@@ -3,7 +3,7 @@
 
 - I’m currently working on **EEGs**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">eeg.link</h3>
 <p align="left">
 </p>
 
